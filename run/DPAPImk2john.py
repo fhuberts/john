@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
 # Modified (for JtR) by Dhiru Kholia in December, 2014.

@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python3
 
 """
 keyring2john.py -> convert Gnome Keyring files to john format.
